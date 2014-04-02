@@ -1,0 +1,43 @@
+header {
+	text-align: center;
+	}
+
+h1 {
+	font-size: 20;
+	color: black;
+	text-align: left;
+}
+
+a {
+	color: #660066;
+}
+
+p {
+	color: rgba(0,0,255,0.9);
+}
+
+h2 {
+	font-size: 14;
+	color: black;
+}
+
+div {
+	height: 100px;
+	background-size: cover;
+	}
+
+.overview {
+	height: 150px;
+	background-image: src=images/DK2.jpg; 
+	float:left; 
+	padding:10px;
+}
+
+.other {
+	background: url("http://dash.ga.co/assets/firstcourse.jpg");
+	margin: 0 auto;
+}
+
+li {
+	padding: 3px;
+}
