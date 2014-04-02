@@ -1,0 +1,42 @@
+header {
+	text-align: center;
+	}
+
+h1 {
+	font-size: 20;
+	color: black;
+	text-align: left;
+}
+
+a {
+	color: #660066;
+}
+
+p {
+	color: rgba(0,0,255,0.9);
+}
+
+h2 {
+	font-size: 14;
+	color: black;
+}
+
+li {
+	padding: 3px;
+}
+
+.SoundCloud {
+
+}
+
+.PhotoBio {
+	margin-top: 10px;
+	height: 315px;
+	padding:10px;
+	border: 2px solid black;
+}
+
+.FindDave {
+margin-top: 50px;
+border: 2px solid black;
+}

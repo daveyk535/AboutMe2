@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+	
+</head>
+<link type="text/css" href="style2.css" rel="stylesheet"/>
+<body>
+
+	<div class="SoundCloud">
+		<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/112604679&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe>
+	</div>
+	
+	<div class="PhotoBio">
+		<img src=images/DK2.jpg>
+		<p>Hello there, fellow earthling. This is a simple page that contains some interesting tidbits about my life. Hopefully, the quality of this page is enough to get me into GA's WDI program so I can pursue a very creative career (and life) in the world of web development.
+			</br></br>
+		I am shifting focus in my tech career because I lost the inspiration for what I was doing. We devote a huge portion of our time on this planet to work and I've made a decision that I no longer want to do a job that is not aligned with my passions, regardless of how much money I make. 	</br></br>
+		The header shows a photo from <a href="http://www.burningman.com/">Burning Man 2013</a>, where the sun was rising and people had been dancing all night at <a href="images/robot_heart.jpg">Robot Heart</a>, a Sound Car in the middle of the desert with an 80,000 watt sound system. I was there last year and I still get goose bumps when I listen to this set. Please click on the "Play" button and enjoy the music while you peruse the site.
+		</p>
+	</div>
+
+	<div class="FindDave">
+		<h1>How to Find Dave</h1>
+		<h2>1. Follow me on Twitter</h2>
+		
+		<!-- Twitter "Follow" button code -->
+		<a href="https://twitter.com/phase2mind" class="twitter-follow-button" data-show-count="false">Follow @phase2mind</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+		<!-- Twitter "Follow" button code -->
+
+		<h2>2. Check out my blog on health, fitness and personal growth for techies</h2>
+		<a href="http://www.phase2minds.com"><img src=images/P2M3.jpg></a></br>
+
+		<h2>3. Check out my professional profile on LinkedIn</h2>
+		<a href="http://www.linkedin.com/in/davidkorsunsky"><img src="http://s.c.lnkd.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Dave Korsunsky's profile on LinkedIn">
+    	</a>
+
+		<h2>4. Other ways to find Dave</h2>
+			<ul>
+				<li><a href="https://www.facebook.com/daveyk535">Dave on FaceBook</a></li>
+				<li><a href="https://www.facebook.com/phase2minds">phase2minds on FaceBook</a></li>
+				<li><a href="mailto:davekorsunsky@gmail.com">e-mail Dave</a></li>
+			</ul>
+	</div>
+</body>
+
+
+
+
+
+
